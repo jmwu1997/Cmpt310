@@ -1,0 +1,11 @@
+phone <-- circuit_board & battery & microphone & speaker & display &keyboard & processor
+
+computer <-- ram & memory_card & storage & video_card & power_supply & mother_board & cpu
+
+microwave_oven <-- metal & plastic & gears & pulleys & screws & cables &magnetron tube
+
+mouse <-- plastic & cables & overmolds & circuit_board & metal
+
+keybaord <-- key_matrix & switches & cables & processor & rom & plastic
+
+

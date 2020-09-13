@@ -1,0 +1,4 @@
+Project: Reversi with Monte-Carlo Tree Search
+Details: Re-do assignment 3, but instead of Tic Tac Toe use Reversi (on an 8-by-8 board).
+Team member: Jia Ming Wu, Zihao Zhao
+Programming language: C or C++
